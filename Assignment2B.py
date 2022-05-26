@@ -11,4 +11,4 @@ for score in list_of_score:
          grade.append('D')
     else:
         grade.append('F')
-print(grade)
+print("Your grade is "+ grade)
