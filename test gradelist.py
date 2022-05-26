@@ -2,7 +2,7 @@ x=0
 list_of_score = []
 print("Enter score of 10")
 while x < 3:
-    list_of_score.append(int(input("Enter your score: ")))
+    list_of_score.append(int(input("Enter your score ja: ")))
     x = x + 1
 
 def grade_list(list_of_score):
